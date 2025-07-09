@@ -477,7 +477,7 @@ def main():
   html3="""
 
     <div style="color:blue; margin:80px; text-align:center;">
-      Developed with ❤ by Mayank,Faiz,Neba and Aditya 
+      Developed by Ananya Goyal 
     </div>
       """
 
